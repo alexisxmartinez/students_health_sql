@@ -1,4 +1,4 @@
-# SQL Project: Exploring Mental Health of International Students
+# DATACAMP SQL Project: Exploring Mental Health of International Students
 
 📚 This project aims to analyze the mental health of international students at a Japanese university using SQL. The study was conducted in 2018 and published the following year, approved by various ethical and regulatory boards.
 
