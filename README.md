@@ -48,7 +48,9 @@ The analysis revealed the following:
 
 ## 📑 Queries and Code
 
-The SQL queries used in this project can be found in the [jupyter notebook](students_mental_health.ipynb) file.
+The SQL queries used in this project can be found in the [jupyter notebook](students_mental_health.ipynb) file. 
+Query example: 
+![code](query.png)
 
 ## 📚 References
 
