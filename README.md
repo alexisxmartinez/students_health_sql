@@ -77,5 +77,3 @@ The study and dataset used in this project are based on the research conducted b
 ---
 
 This project provides valuable insights into the mental health of international students at a Japanese university. By analyzing the data using SQL, we were able to explore the impact of studying in a different country and the role of the length of stay. Feel free to explore the queries and findings to deepen your understanding of the subject matter.
-
-🌟 Have fun exploring and analyzing the data! If you have any questions or feedback, please don't hesitate to reach out.
