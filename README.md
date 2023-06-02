@@ -54,7 +54,7 @@ The analysis revealed the following:
 
 - 🤝 The SCS test, capturing the average score of social connectedness, presents a unique pattern. Starting at 34, the score slightly declines to 32 after 5 years of stay. This decline suggests the challenges that international students may face in maintaining social connections as they adapt to a new cultural context. 💔📉
 
--😰 Acculturative stress, measured by the ASISS test, exhibits a notable shift. The average score decreases from 91 to 50 as the length of stay increases from 5 to 10 years. This reduction in acculturative stress levels could indicate the gradual adjustment and adaptation to the new cultural environment. 🌱😓 
+- 😰 Acculturative stress, measured by the ASISS test, exhibits a notable shift. The average score decreases from 91 to 50 as the length of stay increases from 5 to 10 years. This reduction in acculturative stress levels could indicate the gradual adjustment and adaptation to the new cultural environment. 🌱😓 
 
 📝 In summary, as international students stay longer, there is a noticeable increase in reported symptoms of depression (PHQ-9). The score of social connectedness (SCS) experiences a slight decline, highlighting the challenges in maintaining social relationships. Additionally, the score of acculturative stress (ASISS) significantly decreases, suggesting a potential improvement in adapting to the new cultural environment.
 
