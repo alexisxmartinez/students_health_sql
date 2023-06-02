@@ -50,10 +50,10 @@ The analysis revealed the following:
 
 The SQL queries used in this project can be found in the [jupyter notebook](students_mental_health.ipynb) file. 
 
-###Query example: 
+### 🧑‍💻 Query example: 
 ![code](query.png)
 
-###Query output
+### 👨‍🔬 Query output
 ![code_output](query_result.png)
 
 ## 📚 References
