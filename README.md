@@ -44,6 +44,7 @@ The analysis revealed the following:
 - There are 150 international students and 118 domestic students.
 - International students show higher risks of mental health difficulties compared to the general population.
 - The average scores for depression, social connectedness, and acculturative stress were calculated for all students and specifically for international students.
+
 ## 🔎Report
 
 🌍🎓 International Student Mental Health Analysis 🧠📊
